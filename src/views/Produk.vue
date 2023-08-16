@@ -24,7 +24,7 @@
         <div class="mt-4 flex items-start justify-between">
           <div class="">
             <h3 class="text-xs font-semibold sm:text-sm md:text-base">
-              <a href="#" title="" class="">
+              <a href="/singleproduk" title="" class="">
                   Moisture Serum Pyunkang Yul
                 <span class="absolute" aria-hidden="true"></span>
               </a>
@@ -495,7 +495,6 @@
         </div>
       </article>
     </main>
-
 
 
   <br><br>

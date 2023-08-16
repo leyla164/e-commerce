@@ -383,7 +383,7 @@
         <div class="mt-4 flex items-start justify-between">
           <div class="">
             <h3 class="text-xs font-semibold sm:text-sm md:text-base">
-              <a href="#" title="" class="">
+              <a href="/singleproduk" title="" class="">
                 Aha Bha Pha 30 Days Miracle Toner 
                 <span class="absolute" aria-hidden="true"></span>
               </a>

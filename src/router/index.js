@@ -6,6 +6,10 @@ import SingleProduk from "../views/SingleProduk.vue";
 import Cart from "../views/Cart.vue";
 import Checkout from "../views/Checkout.vue";
 import Contact from "../views/Contact.vue";
+import Brands from "../views/Brands.vue";
+import Categories from "../views/Categories.vue";
+import Register from "../views/Register.vue";
+import Profil from "../views/Profil.vue";
 import store from "../store";
 
 
@@ -39,6 +43,26 @@ const routes = [
         path: "/contact",
         name: "Contact",
         component: Contact,
+    },
+    {
+        path: "/brands",
+        name: "Brands",
+        component: Brands,
+    },
+    {
+        path: "/categories",
+        name: "Categories",
+        component: Categories,
+    },
+    {
+        path: "/register",
+        name: "Register",
+        component: Register,
+    },
+    {
+        path: "/profil",
+        name: "Profil",
+        component: Profil,
     },
     {
         path: "/login",
